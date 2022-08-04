@@ -1,5 +1,5 @@
 
-// local storage will be rearranged
+// local storage dzn
 
 let inputVal = document.getElementsByClassName(`inputVal`)[0]
 let addBtn = document.getElementsByClassName(`addBtn`)[0]
